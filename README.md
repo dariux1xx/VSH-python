@@ -1,1 +1,1 @@
-# VSH-python
+# HSE-python
